@@ -4,7 +4,7 @@ RED='\033[0;31m'
 GREEN='\033[0;32m'
 WHITE='\033[0m'
 
-AESCRYPT_SOURCE='aescrypt-3.0.9-linux.tgz'
+AESCRYPT_SOURCE='aescrypt-3.0.9.tgz'
 ARMORY_DEB='armory_0.92.3_ubuntu-64bit.deb'
 
 if [[ $EUID -ne 0 ]]; then
